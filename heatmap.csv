@@ -1,0 +1,4 @@
+Lat,long,Temperature,Predicted_LST,Heat_Classification,Effective_Cooling_Wind,geometry_class
+22.5726,88.3639,35.0,30.779123,Hot_Zone (UHI),12.0,0
+22.573,88.365,35.2,30.779123,Hot_Zone (UHI),10.5,0
+22.575,88.368,34.9,30.775732,Cold_Zone (Cooling),14.0,0
